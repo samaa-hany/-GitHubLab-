@@ -1,2 +1,2 @@
-# -GitHubLab-
-Git Course
+# Embedded C
+
